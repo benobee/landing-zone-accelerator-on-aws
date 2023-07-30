@@ -340,6 +340,10 @@ export class OrganizationConfig implements t.TypeOf<typeof OrganizationConfigTyp
       name: 'Infrastructure',
       ignore: undefined,
     },
+    {
+      name: 'Account hub',
+      ignore: undefined,
+    },
   ];
 
   /**
