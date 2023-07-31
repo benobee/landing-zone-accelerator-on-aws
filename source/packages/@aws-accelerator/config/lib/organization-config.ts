@@ -342,7 +342,7 @@ export class OrganizationConfig implements t.TypeOf<typeof OrganizationConfigTyp
     },
     {
       name: 'Account hub',
-      ignore: undefined,
+      ignore: true,
     },
   ];
 
